@@ -2,6 +2,10 @@
 
 Transformez un texte en un message discord où chaque mot est un lien vers [Never Gonna Give You Up - Rick Astley (YouTube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
+## Screens
+
+![Screen](/Images/Screen.png)
+
 ## Dépendances
 
 Fait en Python.
