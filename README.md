@@ -1,6 +1,6 @@
 # DiscordRickroller
 
-Transformez un texte en un message discord où chaque mot est un lien caché vers [Never Gonna Give You Up - Rick Astley (YouTube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Transformez un texte en un message discord où chaque mot est un lien vers [Never Gonna Give You Up - Rick Astley (YouTube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## Dépendances
 
